@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Upadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 <img align="right" alt="coding" src="https://images.wallpapersden.com/image/wxl-goku-ultra-instinct-hd-digital-art_91121.jpg" width="1000px">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=palonalewish&label=Profile%20views&color=0e75b6&style=flat" alt="Palonalewish" /> </p>
